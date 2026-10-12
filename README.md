@@ -32,3 +32,8 @@ Fun fact: Big fan of Studio Ghibli movies🙏
 [![](https://komarev.com/ghpvc/?username=norisam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p align="center">
+  <img src="https://media.tenor.com/dQNRRFx2PVAAAAAi/divider-cute.gif" alt="Header" width="100%" />
+</p>
