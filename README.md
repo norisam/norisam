@@ -3,12 +3,13 @@
   <img src="https://media.tenor.com/qhcRVSoKQ-YAAAAj/totoro-discord.gif" alt="Header" width="100%" />
 </p>
 
-# 💫 About Me:
 “Ideas are easy. It's the execution of ideas that really separates the sheep from the goats.” ― Sue Grafton
 
-I'm currently learning : .Net Maui, Iot, UX/UI
+# 💫 About Me:
+Hi! I'm Nur (°▽°)/
 
-Fun fact: Big fan of Studio Ghibli movies🙏
+-I'm currently learning : .Net Maui, Iot, UX/UI
+-Fun fact: Big fan of Studio Ghibli movies🙏
 
 <br clear="all" />
 
