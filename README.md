@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://tenor.com/view/totoro-discord-header-aesthetic-anime-gif-21573130" alt="Header" width="100%" />
+  <img src="https://media.tenor.com/qhcRVSoKQ-YAAAAj/totoro-discord.gif" alt="Header" width="100%" />
 </p>
 
 # 💫 About Me:
