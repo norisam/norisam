@@ -8,8 +8,9 @@
 # 💫 About Me:
 Hi! I'm Nur (°▽°)/
 
--I'm currently learning : .Net Maui, Iot, UX/UI
--Fun fact: Big fan of Studio Ghibli movies🙏
+I'm currently learning : .Net Maui, Iot, UX/UI
+
+Fun fact: Big fan of Studio Ghibli movies🙏
 
 <br clear="all" />
 
