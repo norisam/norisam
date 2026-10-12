@@ -1,9 +1,15 @@
-# 💫 About Me:
-“Ideas are easy. It's the execution of ideas that really separates the sheep from the goats.” ― Sue Grafton<br><br>I'm currently learning : .Net Maui, Iot, UX/UI<br><br>Fun fact: Big fan of Studio Ghibli movies🙏
-
 <p align="center">
-  <img src="https://i.postimg.cc/fTLxVQ9Z/b39k0l.gif" alt="foto" width="300" />
+  <img src="[https://i.pinimg.com/736x/86/2f/38/862f38fe35ff94b9bada9cb3f3efe302.jpg](https://tenor.com/view/totoro-discord-header-aesthetic-anime-gif-21573130)" alt="Header" width="100%" />
 </p>
+
+# 💫 About Me:
+“Ideas are easy. It's the execution of ideas that really separates the sheep from the goats.” ― Sue Grafton
+
+I'm currently learning : .Net Maui, Iot, UX/UI
+
+Fun fact: Big fan of Studio Ghibli movies🙏
+
+<br clear="all" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/norisam) 
